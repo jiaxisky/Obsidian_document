@@ -13,10 +13,6 @@
       "value": "89080097"
     },
     {
-      "name": "wr_skey",
-      "value": "iGXGeiqm"
-    },
-    {
       "name": "wr_pf",
       "value": "0"
     },
@@ -39,6 +35,10 @@
     {
       "name": "wr_gender",
       "value": "0"
+    },
+    {
+      "name": "wr_skey",
+      "value": "jtLsRJl2"
     }
   ],
   "noteLocation": "Obsidian Document/微信读书",
@@ -46,7 +46,7 @@
   "insertAfter": "<!-- start of weread -->",
   "insertBefore": "<!-- end of weread -->",
   "dailyNotesFormat": "YYYY-MM-DD",
-  "lastCookieTime": 1698484088326,
+  "lastCookieTime": 1698498594198,
   "isCookieValid": true,
   "user": "雪落无言",
   "userVid": "89080097",
