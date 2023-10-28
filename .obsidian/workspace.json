@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "2c59bb818c93eb3f",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2fc58fa97948364",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "192b444ec2b6d908",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian Document/笔记本/git教程.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5a54dfaac37e3bd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian Document/笔记本/git教程.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "93841ea361937dee",
+    "type": "split",
+    "children": [
+      {
+        "id": "38086cc0496bd786",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0270166885edb23",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "52628c4b9345d01c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#关于git完之后本地文件消失的解决方法",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "44166ba220cf1810",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "818ba31ab8fd7ea7",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb900ca67f712364",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30d5b21f80c2323a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Obsidian Document/笔记本/git教程.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4064e13ffbd36663",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Obsidian Document/笔记本/git教程.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "78777f7350a4d50b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e1f0120ecff4633a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Obsidian Document/笔记本/git教程.md"
+              }
+            }
+          },
+          {
+            "id": "514bc8ee7255356c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-weread-plugin:Weread": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
+    }
+  },
+  "active": "5a54dfaac37e3bd4",
+  "lastOpenFiles": [
+    "Obsidian Document/笔记本/git教程.md",
+    "Obsidian Document/笔记本/git.md",
+    "Obsidian Document/GitHub+picgo.md",
+    "Obsidian Document/笔记本/图片/Pasted image 20231025100636.png",
+    "Obsidian Document/微信读书/未分类/置身事内 中国政府与经济发展【复旦经院“毕业课”解读经济生活背后的政府角色。罗永浩、刘格菘、张军、周黎安、王烁联袂推荐】-兰小欢.md",
+    "Obsidian Document/微信读书/未分类/一句顶一万句-刘震云.md",
+    "Obsidian Document/微信读书/未分类/小镇喧嚣：一个乡镇政治运作的演绎与阐释-吴毅-CB_852CoCCor4b46jC6ka25B4Cv.md",
+    "Obsidian Document/微信读书/未分类/精英的傲慢：好的社会该如何定义成功？（每个关心社会公平的人，请读一读这本书。哈佛大学教授、《公正》作者迈克尔·桑德尔重磅新作，反思美国梦的破碎，揭示教育的目的、工作的意义-迈克尔·桑德尔.md",
+    "Obsidian Document/微信读书/社会文化/小镇喧嚣：一个乡镇政治运作的演绎与阐释-吴毅-3300019741.md",
+    "Obsidian Document/微信读书/社会文化/乡土中国-费孝通.md",
+    "Obsidian Document/微信读书/精品小说/小巷人家-大米.md",
+    "Obsidian Document/笔记本/笔记.md",
+    "Obsidian Document/微信读书/政治军事/党委会的工作方法-毛泽东.md",
+    "obsidian image",
+    "新建文件夹",
+    "Obsidian Document/微信读书/经济理财/转型中的地方政府：官员激励与治理(第二版)-周黎安.md",
+    "Obsidian Document/微信读书/经济理财",
+    "Obsidian Document/微信读书/社会文化",
+    "Obsidian Document/微信读书/政治军事",
+    "Obsidian Document/微信读书/未分类",
+    "Obsidian Document/微信读书/精品小说",
+    "Obsidian Document/三国/诸葛亮.md",
+    "Excalidraw/两江新区关系图.md",
+    "Excalidraw/xuexi/两江新区关系图.md",
+    "Obsidian Document/微信读书",
+    "微信读书",
+    "Excalidraw/两江新区关系图.png",
+    "Pasted image 20231027110514.png",
+    "Excalidraw/xuexi/两江新区中医院迁建项目关于“施工图纸优化设计”服务招采的请示.pdf",
+    "Obsidian Document/三国/刘备.md",
+    "Drawing 2023-10-26 10.05.23.excalidraw.md",
+    "Obsidian Document/三国/关羽.md",
+    "练习/创建一个名为“运动三大定律”的注释：.md",
+    "练习/练习.md",
+    "练习/运动三大定律.md",
+    "练习/Pasted image 20231024194009.png",
+    "练习/运动定律是艾萨克·牛顿提出的三个定律，描述了物体的运动与作用在物体上的力之间的关系。.md",
+    "练习/运动定律是[[艾萨克·牛顿.md",
+    "练习/惯性定律是其中之一.md",
+    "未命名.canvas",
+    "练习/Pasted image 20231024150806.png",
+    "Pasted image 20231024150520.png",
+    "Pasted image 20231024150559.png"
+  ]
+}
