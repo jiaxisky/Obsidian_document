@@ -6,5 +6,9 @@
   "obsidian-excalidraw-plugin",
   "dataview",
   "convert-url-to-iframe",
-  "obsidian-image-auto-upload-plugin"
+  "obsidian-image-auto-upload-plugin",
+  "oz-clear-unused-images",
+  "obsidian-custom-attachment-location",
+  "remotely-save",
+  "obsidian-quiet-outline"
 ]
