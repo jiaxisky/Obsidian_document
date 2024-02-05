@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "762c5116c1f5ce9e",
+    "type": "split",
+    "children": [
+      {
+        "id": "aabf8b2543c41074",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96c55d0e2473d287",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3efc5f41a884f886",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "7d15cea334eb1242",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "b8eeb8a883afa753",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "282589e48938bd33",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "9443da18e31ec4b5",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "56edc766e3f7c794",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "85d92e539d783fc0",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "50443c718b9b87bb",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "dda821173cf2d171",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "command-palette:打开命令面板": false,
+      "templates:插入模板": false,
+      "remotely-save:Remotely Save": false,
+      "obsidian-weread-plugin:Weread": false
+    }
+  },
+  "active": "96c55d0e2473d287",
+  "lastOpenFiles": [
+    "Obsidian Document/微信读书/未分类/你当像鸟飞往你的山-塔拉·韦斯特弗.md",
+    "Obsidian Document/工作/两江新区中医院/临建施工.md",
+    "Obsidian Document/工作/两江新区中医院/assets/临建施工/image-20231101112535294.png",
+    "Obsidian Document/工作/两江新区中医院/assets/临建施工/image-20231101112013052.png",
+    "Obsidian Document/工作/两江新区中医院/assets/临建施工/image-20231101112700551.png",
+    "Obsidian Document/工作/两江新区中医院/assets/临建施工",
+    "Obsidian Document/工作/两江新区中医院/assets",
+    "Obsidian Document/工作/两江新区中医院",
+    "Obsidian Document/工作",
+    "Obsidian Document/微信读书/精品小说/小巷人家-大米.md",
+    "Obsidian Document/笔记本/git教程 1.md",
+    "Obsidian Document/GitHub+picgo.md",
+    "Obsidian Document/微信读书/社会文化/乡土中国-费孝通.md",
+    "Obsidian Document/微信读书/社会文化/小镇喧嚣：一个乡镇政治运作的演绎与阐释-吴毅-3300019741.md",
+    "Obsidian Document/微信读书/社会文化/作家榜名著：夜航船 年轻人要熟知的4248个文化常识！-张岱.md",
+    "Obsidian Document/微信读书/经济理财/转型中的地方政府：官员激励与治理(第二版)-周黎安.md",
+    "未命名.md",
+    "git教程.md",
+    "Obsidian Document/笔记本/git教程.md",
+    "Excalidraw/Muyao-Softbrush-2.ttf",
+    "练习/练习.md",
+    "练习/运动定律是[[艾萨克·牛顿.md",
+    "练习/运动三大定律.md",
+    "练习/未命名.md",
+    "Obsidian Document/三国/关羽.md",
+    "Obsidian Document/笔记本/笔记.md",
+    "练习/创建一个名为“运动三大定律”的注释：.md",
+    "练习/双括号语法.md",
+    "练习/惯性定律是其中之一.md",
+    "Excalidraw/两江新区关系图.md",
+    "Excalidraw/readme.txt",
+    "Excalidraw/LICENSE.txt",
+    "Obsidian Document/三国/刘备.md",
+    "Obsidian Document/笔记本/git.md",
+    "Obsidian Document/笔记本/笔记 - 副本.md",
+    "练习/assets/练习/image-20231030125004521.png",
+    "练习/assets/练习/image-20231030123515492.png",
+    "练习/assets/未命名/image-20231030121232280.png",
+    "练习/assets/未命名/image-20231030121443829.png",
+    "练习/assets/练习",
+    "练习/assets/未命名",
+    "Obsidian Document/笔记本/图片"
+  ]
+}

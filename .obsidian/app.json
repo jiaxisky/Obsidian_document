@@ -1,11 +1,11 @@
 {
-  "promptDelete": false,
-  "attachmentFolderPath": "./assets/git教程",
+  "attachmentFolderPath": "./assets/git教程 1",
   "pdfExportSettings": {
     "includeName": true,
     "pageSize": "A4",
     "landscape": false,
     "margin": "0",
-    "downscalePercent": 100
-  }
+    "downscalePercent": 65
+  },
+  "promptDelete": false
 }

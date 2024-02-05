@@ -1,14 +1,14 @@
 [
-  "obsidian-git",
-  "table-editor-obsidian",
-  "obsidian-auto-link-title",
-  "obsidian-weread-plugin",
+  "remotely-save",
+  "obsidian-image-auto-upload-plugin",
   "obsidian-excalidraw-plugin",
   "dataview",
-  "convert-url-to-iframe",
-  "obsidian-image-auto-upload-plugin",
-  "oz-clear-unused-images",
   "obsidian-custom-attachment-location",
-  "remotely-save",
-  "obsidian-quiet-outline"
+  "obsidian-auto-link-title",
+  "obsidian-quiet-outline",
+  "obsidian-booknote-plugin",
+  "obsidian-pandoc",
+  "obsidian-language-learner",
+  "obsidian-outliner",
+  "obsidian-weread-plugin"
 ]

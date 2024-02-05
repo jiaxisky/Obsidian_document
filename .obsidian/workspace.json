@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e6048eae2189d67e",
+        "id": "330e147062ddbaa7",
         "type": "tabs",
         "children": [
           {
-            "id": "5d39e5b8843fd610",
+            "id": "b1fe5b3b42064a4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Document/笔记本/git教程.md",
-                "mode": "preview",
+                "file": "Obsidian Document/笔记本/git教程 1.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -39,7 +39,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#关于git完之后本地文件消失的解决方法",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,12 +65,28 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "4f41d7d8ff15733d",
+            "type": "leaf",
+            "state": {
+              "type": "book-explorer-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "0448bb57e01d6d1e",
+            "type": "leaf",
+            "state": {
+              "type": "langr-search-panel",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 346.5
   },
   "right": {
     "id": "818ba31ab8fd7ea7",
@@ -86,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Document/笔记本/git教程.md",
+                "file": "Obsidian Document/笔记本/git教程 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian Document/笔记本/git教程.md",
+                "file": "Obsidian Document/笔记本/git教程 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +132,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -126,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian Document/笔记本/git教程.md"
+                "file": "Obsidian Document/笔记本/git教程 1.md"
               }
             }
           },
@@ -139,82 +155,102 @@
             }
           },
           {
-            "id": "d70b7cf38e3a6ad7",
+            "id": "9f4f00f126ffc062",
             "type": "leaf",
             "state": {
-              "type": "quiet-outline",
+              "type": "copilot-chat-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "d649616cd0625037",
+            "type": "leaf",
+            "state": {
+              "type": "langr-stat",
+              "state": {}
+            }
+          },
+          {
+            "id": "4d4b04ac89aab23e",
+            "type": "leaf",
+            "state": {
+              "type": "langr-learn-panel",
               "state": {}
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 360.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-booknote-plugin:书库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-weread-plugin:Weread": false,
+      "remotely-save:Remotely Save": false,
+      "obsidian-language-learner:打开查词面板": false,
+      "obsidian-language-learner:打开新词面板": false,
+      "obsidian-language-learner:打开统计": false,
+      "obsidian-language-learner:单词列表": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "remotely-save:Remotely Save": false
+      "obsidian-weread-plugin:Weread": false
     }
   },
-  "active": "5d39e5b8843fd610",
+  "active": "b1fe5b3b42064a4f",
   "lastOpenFiles": [
-    "Obsidian Document/笔记本/git.md",
+    "电子书/规范学习/DBJ50-156-2012 旋挖成孔灌注桩工程技术规程(1).pdf",
+    "Obsidian Document/笔记本/韩顺平Java.md",
     "Obsidian Document/笔记本/git教程.md",
-    "Obsidian Document/微信读书/社会文化/作家榜名著：夜航船 年轻人要熟知的4248个文化常识！-张岱.md",
-    "Obsidian Document/微信读书/经济理财/转型中的地方政府：官员激励与治理(第二版)-周黎安.md",
-    "Obsidian Document/GitHub+picgo.md",
-    "练习/未命名.md",
-    "练习/练习.md",
-    "练习/assets/练习/image-20231030125004521.png",
-    "练习/惯性定律是其中之一.md",
-    "练习/assets/练习/image-20231030123515492.png",
-    "练习/assets/练习",
-    "练习/assets/未命名/image-20231030121443829.png",
-    "练习/assets/未命名/image-20231030121232280.png",
-    "练习/assets/未命名/image-20231030111357974.png",
-    "练习/assets/未命名/image-20231030111351301.png",
-    "练习/assets/未命名/image-20231030111345362.png",
-    "练习/assets/未命名/image-20231030111254098.png",
-    "练习/assets/未命名",
-    "练习/assets",
-    "Pasted image 20231024150806.png.md",
-    "练习/运动定律是艾萨克·牛顿提出的三个定律，描述了物体的运动与作用在物体上的力之间的关系。.md",
-    "练习/创建一个名为“运动三大定律”的注释：.md",
-    "obsidian image/未命名.md",
-    "obsidian image/未命名.md",
-    "obsidian image/assets/未命名/image-20231030110928957.png",
-    "obsidian image/assets/未命名/image-20231030110840185.png",
-    "obsidian image/assets/未命名",
-    "obsidian image/assets",
-    "测试.md",
-    "().md",
-    "Obsidian Document/笔记本/笔记.md",
-    "Obsidian Document/微信读书/社会文化/乡土中国-费孝通.md",
-    "Obsidian Document/微信读书/社会文化/小镇喧嚣：一个乡镇政治运作的演绎与阐释-吴毅-3300019741.md",
-    "Obsidian Document/微信读书/精品小说/小巷人家-大米.md",
+    "IMG_20240110_160842.jpg",
+    "IMG_20240110_152155.jpg",
+    "IMG_20240110_154728.jpg",
+    "IMG_20240110_154759.jpg",
+    "未命名.md",
+    "待办：主体设置.md",
+    "Obsidian Document/微信读书/社会文化/民法典实用一本通-郭小明主编.md",
+    "Obsidian Document/微信读书/经济理财/利势—营销 36 法-江南春.md",
+    "Obsidian Document/微信读书/个人成长/即兴演讲：掌控人生关键时刻-朱迪思·汉弗莱.md",
+    "Obsidian Document/微信读书/文学/呼吸秋千-赫塔·米勒.md",
+    "Obsidian Document/微信读书/个人成长",
+    "Obsidian Document/微信读书/政治军事/邓小平时代-傅高义.md",
+    "booknote/books-data/(annots)20231213114703195-1.pdf/p1r90.024,500.484,121.024,531.484z2i(03cdb2fc-d52f-abb3-301a-60cf2a2d07c5).png",
+    "booknote/books-data/(annots)20231213114703195-1.pdf",
+    "booknote/books-data/20231213114703195-1.pdf.xml",
+    "电子书/《关于重庆市新型智能建筑渣土车推广使用工作实施方案的通知》（渝城管局〔2021〕139号）.pdf",
+    "电子书/20231213114703195-1.pdf",
+    "工作/两江新区中医院/工作照片/现场照片2024.1.10.md",
+    "工作/两江新区中医院/工作照片",
+    "booknote/books-data/规范学习/(annots)DBJ50-156-2012 旋挖成孔灌注桩工程技术规程(1).pdf/p24r303.410,157.500,305.410,168.650z2i(41d2ba9b-7e3d-3637-45c3-32a47465665d).png",
+    "booknote/books-data/规范学习/(annots)DBJ50-156-2012 旋挖成孔灌注桩工程技术规程(1).pdf/p24r322.860,159.790,325.430,182.960z2i(09603832-9ef5-abc1-6c2c-410ad55fafd7).png",
+    "booknote/books-data/规范学习/(annots)DBJ50-156-2012 旋挖成孔灌注桩工程技术规程(1).pdf/p24r318.860,147.200,324.290,162.360z2i(399e50c7-e827-ce02-428d-0147a98a008a).png",
+    "booknote/books-data/规范学习/(annots)DBJ50-156-2012 旋挖成孔灌注桩工程技术规程(1).pdf/p38r147.630,152.200,165.940,198.550z2i(9af64aa4-9cb2-3bb2-57e9-10195610d25f).png",
+    "booknote/books-data/规范学习/(annots)DBJ50-156-2012 旋挖成孔灌注桩工程技术规程(1).pdf/p38r160.930,60.800,166.940,194.400z2i(44a88689-3f6f-7594-9e61-5c009d103afc).png",
+    "booknote/books-data/规范学习/DBJ50-156-2012 旋挖成孔灌注桩工程技术规程(1).pdf.xml",
+    "booknote/books-data/规范学习/(annots)DBJ50-156-2012 旋挖成孔灌注桩工程技术规程(1).pdf",
+    "booknote/books-data/规范学习",
+    "Excalidraw/《以利为利》框架梳理.md",
     "Excalidraw/两江新区关系图.md",
-    "Obsidian Document/微信读书/未分类/置身事内 中国政府与经济发展【复旦经院“毕业课”解读经济生活背后的政府角色。罗永浩、刘格菘、张军、周黎安、王烁联袂推荐】-兰小欢.md",
-    "Obsidian Document/微信读书/未分类/一句顶一万句-刘震云.md",
-    "Obsidian Document/微信读书/未分类/小镇喧嚣：一个乡镇政治运作的演绎与阐释-吴毅-CB_852CoCCor4b46jC6ka25B4Cv.md",
-    "Obsidian Document/微信读书/未分类/精英的傲慢：好的社会该如何定义成功？（每个关心社会公平的人，请读一读这本书。哈佛大学教授、《公正》作者迈克尔·桑德尔重磅新作，反思美国梦的破碎，揭示教育的目的、工作的意义-迈克尔·桑德尔.md",
-    "Obsidian Document/微信读书/政治军事/党委会的工作方法-毛泽东.md",
-    "obsidian image",
-    "新建文件夹",
-    "Obsidian Document/微信读书/经济理财",
-    "Obsidian Document/微信读书/社会文化",
-    "Obsidian Document/微信读书/政治军事",
-    "Obsidian Document/三国/诸葛亮.md",
-    "未命名.canvas"
+    "Excalidraw/地方政府土地收入的组成.md",
+    "工作/合同条款.md",
+    "Obsidian Document/微信读书/未分类/中华人民共和国消费者权益保护法：实用版（2013.11）-中国法制出版社.md",
+    "Obsidian Document/微信读书/精品小说/小巷人家-大米.md",
+    "Obsidian Document/微信读书/经济理财/以利为利：财政关系与地方政府行为-周飞舟.md",
+    "Obsidian Document/笔记本/笔记 - 副本.md",
+    "Obsidian Document/微信读书/社会文化/学点法律，避点坑：有趣有料的法律科普-隋兵.md",
+    "Obsidian Document/微信读书/文学/时间不语，却给出了所有答案-梁实秋.md",
+    "Obsidian Document/微信读书/未分类/太白金星有点烦-马伯庸-CB_2509jq9mF2ci6ki6kaAclEOI.md",
+    "Obsidian Document/微信读书/社会文化/治安管理处罚法新解读（第四版）-中国法制出版社.md",
+    "Obsidian Document/微信读书/历史/太白金星有点烦-马伯庸-3300072295.md",
+    "Obsidian Document/笔记本/git.md",
+    "Obsidian Document/笔记本/语法笔记.md",
+    "未命名.canvas",
+    "工作/未命名.canvas"
   ]
 }
